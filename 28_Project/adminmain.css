@@ -1,0 +1,53 @@
+#adsel
+        {
+            height: 200px;
+            width: 200px;
+            margin-left: 32%;
+            margin-top: 32%;
+            border-style: none;
+            border-radius: 30px;
+            box-shadow: 0 0 10px black,0 0 40px black,0 0 80px black;
+            background-size: cover;
+            font-size: x-large;
+        }
+#adsel:hover
+        {
+            border-style: none;
+            background-color: black;
+            color: white;
+            box-shadow: 0 0 10px white,0 0 40px white,0 0 80px white;
+            transition-delay: 0.05s;
+        }
+#adsel1
+        {
+            height: 200px;
+            width: 200px;
+            margin-left: 70%;
+            margin-top: -32%;
+            border-style: none;
+            font-size: x-large;
+            border-radius: 30px;
+            box-shadow: 0 0 10px black,0 0 40px black,0 0 80px black;
+            background-size: cover;
+        }
+#adsel1:hover
+        {
+            border-style: none;
+            background-color: black;
+            color: white;
+            box-shadow: 0 0 10px black,0 0 40px white,0 0 80px black;
+            transition-delay: 0.05s;
+        }
+#pagehalf
+        {
+            background-color: aqua;
+            margin-left: 0px;
+            margin-top: -10px;
+            margin-left: -10px;
+            width: 52%;
+            height: 102%;
+        }
+body
+{
+
+}
